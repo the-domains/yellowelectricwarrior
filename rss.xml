@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[YellowElectricWarrior ]]></title>
         <description><![CDATA[YellowElectricWarrior ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/yellowelectricwarrior/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 17:41:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Apr 2016 17:42:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/yellowelectricwarrior/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/03da63d6-b12c-454f-840e-848a84c5bb1f.jpg">]]></description>
-            <link>undefined846f301b-a854-4591-844f-ba1f0b3a26d2/index.html</link>
+            <link>https://thegrid.ai/yellowelectricwarrior/846f301b-a854-4591-844f-ba1f0b3a26d2/index.html</link>
             <guid isPermaLink="false">846f301b-a854-4591-844f-ba1f0b3a26d2</guid>
-            <pubDate>Tue, 26 Apr 2016 17:41:06 GMT</pubDate>
+            <pubDate>Tue, 26 Apr 2016 17:42:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
