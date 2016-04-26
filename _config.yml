@@ -1,7 +1,7 @@
 name: 'YellowElectricWarrior '
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.9634696210268885
+layout_spectrum: 0.74192
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#F4F482'
   brandStrength: 0
   lightness: 0.5
-  saturation: 1
+  saturation: 0.5
   rhythmicContrast: 0
 purpose: []
